@@ -3,7 +3,7 @@ This program allows you to get a snack while waiting for a league of legends gam
 
 This code is very simple and is written in python. This code will automatically accept a queue
 for you when you are queueing for a league of legends game. Please be aware, this program is configured
-for a 3024x1964 display (feel free to change it yourself, you can jsut trial and error it by changing x, y and factor). 
+for a 3024x1964 display (feel free to change it yourself, you can just trial and error it by changing x, y and factor). 
 
 **How to use**
 <ul>
